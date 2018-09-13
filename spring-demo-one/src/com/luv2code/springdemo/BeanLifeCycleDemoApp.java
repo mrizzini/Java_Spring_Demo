@@ -17,7 +17,7 @@ public class BeanLifeCycleDemoApp {
 		
 		System.out.println(theCoach.getDailyWorkout());
 		
-		// close the context
+		// close the context 
 		
 		context.close();
 		
